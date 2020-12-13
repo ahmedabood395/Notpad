@@ -1,0 +1,10 @@
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\bin\Debug\LabDay6.exe.config
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\bin\Debug\LabDay6.exe
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\bin\Debug\LabDay6.pdb
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.csprojAssemblyReference.cache
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.Form1.resources
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.Properties.Resources.resources
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.csproj.GenerateResource.cache
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.csproj.CoreCompileInputs.cache
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.exe
+F:\ITI\C#\6\LabDay6\LabDay6\LabDay6\obj\Debug\LabDay6.pdb
